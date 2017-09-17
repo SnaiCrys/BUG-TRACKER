@@ -6,6 +6,8 @@
 * https://amazingrp.ru/
 
 ## FAQ
+[БАГ-ТРЕКЕР](https://github.com/SnaiCrys/BUG-TRACKER/issues)
+
 <p align="center">
   <img alt="VS Code in action" src="https://i.imgur.com/xgD6L43.gif">
 </p>
