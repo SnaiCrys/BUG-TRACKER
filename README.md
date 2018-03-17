@@ -7,9 +7,8 @@
 
 ## FAQ
 [БАГ-ТРЕКЕР](https://github.com/SnaiCrys/BUG-TRACKER/issues)
+Перед публикацией бага проверьте, используя поиск, что об этой проблеме уже не писали.
 
 <p align="center">
   <img alt="VS Code in action" src="https://i.imgur.com/xgD6L43.gif">
 </p>
-
-Перед публикацией бага проверьте, используя поиск, что об этой проблеме уже не писали.
